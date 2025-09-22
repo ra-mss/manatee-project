@@ -1,0 +1,11 @@
+# requirements.txt
+
+torch
+torchvision
+torchaudio
+numpy
+scikit-learn
+librosa
+matplotlib
+seaborn
+tqdm
